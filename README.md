@@ -12,6 +12,7 @@
 > This is a fun project that I made to make myself as an emoji using pure css
 
 ### ✨ [Demo](https://scorchingshade.github.io/CSSEmoji/index.html)
+<p align="center"><img src="https://github.com/ScorchingShade/CSSEmoji/blob/master/bg.png"></p>
 
 ## Usage
 
